@@ -1,0 +1,54 @@
+save_file.json
+.DS_Store
+
+*.swp
+*~
+
+bin/
+lib/
+out/
+
+# Java Compiled Class Files
+*.class
+
+# Gradle
+build
+.gradle
+
+# Eclipse
+.project
+.classpath
+.settings
+.metadata
+.reccomenders
+
+# Intellij IDEA
+*.iml
+.idea
+
+#UML Diagram
+*.ucls
+
+Thumbs.db
+
+# Merge conflicts
+*.orig
+
+# Local sonar installations
+sonar-project.properties
+.sonar/
+&
+
+.recommenders/
+EngineDB/*
+
+
+# vscode files
+.vscode/
+
+# Save file after testing
+resources/save_file.json
+
+# Ignore logging files
+*.log
+*.log.lck

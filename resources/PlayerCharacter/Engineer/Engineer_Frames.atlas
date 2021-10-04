@@ -1,0 +1,205 @@
+
+Engineer_Frames.png
+size: 1800,1800
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+N_Walking_Gun
+  rotate: false
+  xy: 0, 900
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+SE_Walking_Gun
+  rotate: false
+  xy: 0, 450
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+SW_Running
+  rotate: false
+  xy: 0, 1350
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+S_Walking_Gun
+  rotate: false
+  xy: 0, 0
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+
+Engineer_Frames2.png
+size: 1800,1800
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+NE_Running
+  rotate: false
+  xy: 0, 900
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+NE_Walking
+  rotate: false
+  xy: 0, 1350
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+NE_Walking_Gun
+  rotate: false
+  xy: 0, 0
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+NW_Walking_Gun
+  rotate: false
+  xy: 0, 450
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+
+Engineer_Frames3.png
+size: 1800,1800
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+NW_Running
+  rotate: false
+  xy: 0, 0
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+NW_Walking
+  rotate: false
+  xy: 0, 900
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+N_Walking
+  rotate: false
+  xy: 0, 450
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+SW_Walking_Gun
+  rotate: false
+  xy: 0, 1350
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+
+Engineer_Frames4.png
+size: 1800,1800
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+N_Running
+  rotate: false
+  xy: 0, 450
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+SE_Running
+  rotate: false
+  xy: 0, 0
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+SE_Walking
+  rotate: false
+  xy: 0, 1350
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+S_Walking
+  rotate: false
+  xy: 0, 900
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+
+Engineer_Frames5.png
+size: 1800,1800
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Death
+  rotate: false
+  xy: 450, 450
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+NE_Idle
+  rotate: false
+  xy: 1350, 450
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+NW_Idle
+  rotate: false
+  xy: 900, 450
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+N_Idle
+  rotate: false
+  xy: 0, 0
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+SE_Idle
+  rotate: false
+  xy: 0, 450
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+SW_Idle
+  rotate: false
+  xy: 900, 0
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+SW_Walking
+  rotate: false
+  xy: 0, 900
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1
+S_Idle
+  rotate: false
+  xy: 450, 0
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+S_Running
+  rotate: false
+  xy: 0, 1350
+  size: 1800, 450
+  orig: 1800, 450
+  offset: 0, 0
+  index: -1

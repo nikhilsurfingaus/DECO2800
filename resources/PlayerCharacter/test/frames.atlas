@@ -1,0 +1,62 @@
+
+frames.png
+size: 1920,1088
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 960, 816
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+back-side
+  rotate: false
+  xy: 0, 0
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+back-side-sprint
+  rotate: false
+  xy: 960, 544
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+back-sprint
+  rotate: false
+  xy: 0, 816
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 0, 544
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+front-side
+  rotate: false
+  xy: 960, 272
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+front-side-sprint
+  rotate: false
+  xy: 0, 272
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
+front-sprint
+  rotate: false
+  xy: 960, 0
+  size: 960, 272
+  orig: 960, 272
+  offset: 0, 0
+  index: -1
